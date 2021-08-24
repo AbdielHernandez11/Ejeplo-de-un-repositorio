@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+<head><title> Mostrar datos de variables </title></head>
+<body>
+	<script>
+		var Nombre;
+		 Nombre= prompt("ingresa tu nombre"); 
+		 document.write ("Nombre:" + Nombre + "<br>");
+		 var Naciste;
+		 Naciste= prompt("Ingresa donde naciste");
+		 document.write ("Naciste:" + Naciste + "<br>");
+		 var Edad;
+		 Edad= prompt("Ingresa tu edad");
+		 document.write ("Edad:" + Edad + "<br>");
+		</script>
+</body>
+</html>
